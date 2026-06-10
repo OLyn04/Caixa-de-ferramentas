@@ -1,2 +1,2 @@
 # Caixa-de-ferramentas
-Um conjunto de codigos javas para estilizaçao do seu site
+Um conjunto de funçoes para auxiliar um iniciante na programaçao
